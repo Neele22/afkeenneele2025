@@ -1,0 +1,122 @@
+body {
+    background-color: #DAEEFF;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span,
+div,
+label,
+input,
+a {
+    font-family: "Domine", serif;
+    color: #00053F;
+}
+
+.button {
+    padding: 25px 25px;
+    border-radius: 10px;
+    background-color: #D25876;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.button:hover {
+    background-color: #B24862;
+}
+
+.button:active {
+    background-color: #702d3e;
+}
+
+#main-container {
+    display: flex;
+    justify-content: center;
+    height: 99vh;
+    gap: 10%;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#amsterdammertje {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+}
+
+.row {
+    display: flex;
+    padding: 5% 0;
+}
+
+.svg-container.flower {
+    width: 50px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+/* Medium screens */
+@media (max-width: 800px) {
+    #main-container {
+        height: auto;
+        justify-content: flex-start;
+        gap: 0;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    #content {
+        justify-content: flex-start;
+    }
+
+    .button {
+        padding: 10px;
+        font-size: 16px;
+    }
+}
+
+/* Small screens */
+@media only screen and (max-width: 500px) {
+    #main-container {
+        height: auto;
+        justify-content: flex-start;
+        flex-direction: column-reverse;
+        padding-top: 5%;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    #content {
+        justify-content: flex-start;
+        padding: 0 20px;
+    }
+
+    .button {
+        padding: 15px;
+        font-size: 18px;
+    }
+
+    #amsterdammertje {
+        justify-content: center;
+    }
+}

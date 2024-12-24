@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 80 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3968.18,-4248.16)">
+        <g id="Artboard11" transform="matrix(0.0739366,0,0,0.0544239,3968.18,4248.16)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g transform="matrix(13.5251,0,0,18.3743,-4255.46,-11713)">
+                <g id="Bloemen">
+                    <g>
+                        <g transform="matrix(1,0,0,1.14531,-2473.38,-2933.13)">
+                            <path d="M2819.43,3164.38C2819.43,3164.38 2779.67,3143.51 2792.68,3130.85C2805.69,3118.19 2819.43,3164.38 2819.43,3164.38Z" style="fill:rgb(247,82,226);stroke:rgb(247,82,226);stroke-width:3.72px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1.11238,-2473.38,-2828.92)">
+                            <path d="M2819.43,3164.38C2819.43,3164.38 2802.93,3118.89 2819.43,3118.19C2835.93,3117.49 2819.43,3164.38 2819.43,3164.38Z" style="fill:rgb(247,82,226);stroke:rgb(247,82,226);stroke-width:3.78px;"/>
+                        </g>
+                        <g transform="matrix(0.852563,0,0,1.22193,-2057.69,-3175.57)">
+                            <path d="M2819.43,3164.38C2819.43,3164.38 2839.45,3110.1 2850,3124.87C2860.55,3139.64 2819.43,3164.38 2819.43,3164.38Z" style="fill:rgb(247,82,226);stroke:rgb(247,82,226);stroke-width:3.8px;"/>
+                        </g>
+                        <g transform="matrix(1.00898,0,0,1.33272,-2498.71,-3526.15)">
+                            <path d="M2819.43,3164.38C2819.43,3164.38 2855.63,3128.43 2861.25,3143.35C2866.88,3158.28 2819.43,3164.38 2819.43,3164.38Z" style="fill:rgb(247,82,226);stroke:rgb(247,82,226);stroke-width:3.38px;"/>
+                        </g>
+                        <g transform="matrix(0.973551,-0.22847,0.22847,0.973551,-3121.84,-1745.2)">
+                            <path d="M2819.43,3164.38C2819.43,3164.38 2871.67,3153.7 2865.94,3168.47C2860.2,3183.24 2819.43,3164.38 2819.43,3164.38Z" style="fill:rgb(247,82,226);stroke:rgb(247,82,226);stroke-width:4px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
